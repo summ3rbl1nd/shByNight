@@ -1,0 +1,114 @@
+CONCEPT: 
+hit and run assassin
+
+ASPIRATIONS:
+
+ATTRIBUTES:
+PHYSICAL-- 3
+strength		1
+dexterity		1 + 3
+stamina			1
+
+MENTAL-- 5
+intelligence	1 + 2
+wits			1 + 2
+resolve			1 + 1
+
+SOCIAL-- 4
+presence		1 + 1
+manipulation	1 + 1
+composure		1 + 2
+
+ADVANTAGES:
+willpower       5
+harmony         7
+size            5
+health          6
+speed           10
+defense         5
+initiative      7
+
+AUSPICE:
+irraka
+
+TRIBE:
+iron masters
+
+SKILLS:
+PHYSICAL-- 7
+athletics 		2 yoga
+brawl
+drive
+firearms
+larceny
+stealth         4 auspice skill
+survival
+weaponry        2 single edged weapons
+
+MENTAL-- 11
+academics		2
+computer
+crafts			
+investigation   3
+medicine        2 yoga therapy
+occult		    2
+politics        2
+science
+
+SOCIAL-- 4
+animal ken
+empathy         1
+expression
+intimidation
+persuasion      1
+socialize       1
+streetwise
+subterfuge      1
+
+BLOOD: monster
+BONE: guru 
+
+TOUCHSTONES:
+the future self
+the career
+
+KURUTH TRIGGERS:
+pack
+
+GIFTS:
+new moon's gifts--
+    eviscerate
+    slip away
+gift of evasion--
+    feet of mist
+gift of technology--
+    garble
+
+RITES:
+wolf rites--
+    chain rage
+    messenger
+
+ESSENCE:
+7
+
+RENOWN:
+cunning--       2
+
+MERITS:
+fighting finesse (2)
+meditative mind (2)
+fading (3)
+tactical shifting
+    springloading
+    broaden
+    fluid movement
+
+PRIMAL URGE:    
+1
+
+EXPERIENCE:
+10
+purity +1
+additional facet
+    gift of evasion-- hit and run
