@@ -5,19 +5,19 @@ ASPIRATIONS:
 
 ATTRIBUTES:
 PHYSICAL-- 3
-strength		1
-dexterity		1 + 3
-stamina			1
+strength      1
+dexterity 		1 + 3
+stamina	  		1
 
 MENTAL-- 5
 intelligence	1 + 2
-wits			1 + 2
-resolve			1 + 1
+wits    			1 + 2
+resolve 			1 + 1
 
 SOCIAL-- 4
-presence		1 + 1
+presence  		1 + 1
 manipulation	1 + 1
-composure		1 + 2
+composure	  	1 + 2
 
 ADVANTAGES:
 willpower       5
@@ -36,7 +36,7 @@ iron masters
 
 SKILLS:
 PHYSICAL-- 7
-athletics 		2 yoga
+athletics   		2 yoga
 brawl
 drive
 firearms
@@ -46,12 +46,12 @@ survival
 weaponry        2 single edged weapons
 
 MENTAL-- 11
-academics		2
+academics	    	2
 computer
 crafts			
 investigation   3
 medicine        2 yoga therapy
-occult		    2
+occult		      2
 politics        2
 science
 
