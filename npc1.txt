@@ -32,16 +32,16 @@ AUSPICE:
 irraka
 
 TRIBE:
-iron masters
+bone shadows
 
 SKILLS:
 PHYSICAL-- 7
 athletics       2 yoga
 brawl
-drive
+drive           1
 firearms
 larceny
-stealth         4 auspice skill
+stealth         3 auspice skill
 survival
 weaponry        2 single edged weapons
 
@@ -78,11 +78,12 @@ pack
 GIFTS:
 new moon's gifts--
     eviscerate
-    slip away
 gift of evasion--
     feet of mist
-gift of technology--
-    garble
+gift of death--
+    eyes of the dead
+gift of change--
+    quicksilver flesh
 
 RITES:
 wolf rites--
@@ -93,22 +94,29 @@ ESSENCE:
 7
 
 RENOWN:
-cunning--       2
+cunning--       1
+wisdom--        1
 
 MERITS:
-fighting finesse (2)
 meditative mind (2)
-fading (3)
-tactical shifting
-    springloading
-    broaden
-    fluid movement
+biokinesis (2)
+allies (2)
+    yoga students
+safe place (1)
+striking looks (2)
+
 
 PRIMAL URGE:    
 1
 
 EXPERIENCE:
 10
-purity +1
+purity +1 (3)
 additional facet
-    gift of evasion-- hit and run
+    gift of evasion -- hit and run (2)
+    gift of death -- bone gnaw (2)
+dedicated locus (1)
+additional rite
+    wellspring (2)
+
+protector of locus/autistic kid
