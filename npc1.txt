@@ -1,7 +1,12 @@
 CONCEPT: 
-hit and run assassin
+protector of locus/autistic kid
 
 ASPIRATIONS:
+ensure autistic kid's safety short and long term
+  educate him regarding world of man and spirit
+  figure out way to protect him at school
+understand how kid is locus/how spirits interact with him
+balance education with career
 
 ATTRIBUTES:
 PHYSICAL-- 3
@@ -43,10 +48,10 @@ firearms
 larceny
 stealth         3 auspice skill
 survival
-weaponry        2 single edged weapons
+weaponry        2 
 
 MENTAL-- 11
-academics       2
+academics       2 western philosophy
 computer
 crafts			
 investigation   3
@@ -69,8 +74,8 @@ BLOOD: monster
 BONE: guru 
 
 TOUCHSTONES:
-the future self
-the career
+the locus
+the grind
 
 KURUTH TRIGGERS:
 pack
@@ -119,4 +124,5 @@ dedicated locus (1)
 additional rite
     wellspring (2)
 
-protector of locus/autistic kid
+# need some ability to dampen locus for kid
+# fetish weapon? or just cursed/special

@@ -1,9 +1,9 @@
 CONCEPT: 
-berserker
-lancer
 man suppressing ungovernable rage
 
 ASPIRATIONS:
+wants to lose control
+does not want to lose control
 
 ATTRIBUTES:
 PHYSICAL-- 4
@@ -100,15 +100,14 @@ purity--        1
 glory--         1
 
 MERITS:
-relentless assault (5)
-    drop of a hat
-    eye of the tiger
-    dig deep
-    grin and bear it
-    the warpath
-living weapon (5)
+favored form - gauru (2)
+    brawl
+    strength
+living weapon (3)
     gauru jaws
-        +1 L dmg, 2/2 armor piercing
+        2/2 armor piercing
+fortified form (5)
+    gauru armor 2/2
 
 PRIMAL URGE:    
 1
