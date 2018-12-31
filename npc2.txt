@@ -71,8 +71,7 @@ BLOOD: destroyer
 BONE: lone wolf
 
 TOUCHSTONES:
-the locus
-the parent
+
 
 KURUTH TRIGGERS:
 moon
@@ -102,21 +101,22 @@ MERITS:
 living weapon (5)
     gauru jaws
         +1L 2/2 armor piercing
-fortified form (5)
-    gauru armor 2/2
+relentless assault (5)
 
 PRIMAL URGE:    
 1
 
 EXPERIENCE:
 10 -- 
+favored form -- gauru (2)
+    brawl
+    strength
+        urhan dex -1, stamina -1
 CQC (2)
     firing lines
     hard surfaces
-relentless assault (5)
+defensive combat -- brawl (1)
 
-
-# avoids melee, avoids raging
+# avoids melee, emotionally charged scenarios
 # attempts to negotiate peaceful solution when possible
 # runs around with a bow since guns aren't allowed
-# has no idea how to use it
