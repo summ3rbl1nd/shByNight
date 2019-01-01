@@ -1,9 +1,12 @@
 CONCEPT: 
 man suppressing ungovernable rage
+repentant murderer
 
 ASPIRATIONS:
-wants to lose control
-does not want to lose control
+to become a better person
+to not kuruth
+not killing/injuring anyone
+upholding the law/oath of the moon
 
 ATTRIBUTES:
 PHYSICAL-- 4
@@ -102,9 +105,21 @@ living weapon (5)
     gauru jaws
         +1L 2/2 armor piercing
 relentless assault (5)
+favored form -- gauru (2)
+    brawl
+    strength
+        dex -1, stamina -1 urhan
+
+CQC (2)
+    firing lines
+    hard surfaces
+defensive combat -- brawl (1)
 
 PRIMAL URGE:    
-1
+2
+
+
+
 
 EXPERIENCE:
 10 -- 
@@ -116,7 +131,7 @@ CQC (2)
     firing lines
     hard surfaces
 defensive combat -- brawl (1)
+primal urge +1 (5)
 
 # avoids melee, emotionally charged scenarios
 # attempts to negotiate peaceful solution when possible
-# runs around with a bow since guns aren't allowed

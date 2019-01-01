@@ -53,11 +53,11 @@ weaponry        2
 MENTAL-- 11
 academics       2 western philosophy
 computer
-crafts			
-investigation   3
+crafts		    1
+investigation   2
 medicine        2 yoga therapy
-occult          2
-politics        2
+occult          3
+politics        1
 science
 
 SOCIAL-- 4
@@ -85,15 +85,18 @@ new moon's gifts--
     eviscerate
 gift of evasion--
     feet of mist
+    hit and run
 gift of death--
     eyes of the dead
+    bone gnaw
 gift of change--
     quicksilver flesh
 
 RITES:
 wolf rites--
-    chain rage
-    messenger
+    chain rage (1)
+    messenger (1)
+    wellspring (2)
 
 ESSENCE:
 7
@@ -101,6 +104,7 @@ ESSENCE:
 RENOWN:
 cunning--       1
 wisdom--        1
+purity--        1
 
 MERITS:
 meditative mind (2)
@@ -109,10 +113,13 @@ allies (2)
     yoga students
 safe place (1)
 striking looks (2)
-
+dedicated locus (1)
 
 PRIMAL URGE:    
 1
+
+
+
 
 EXPERIENCE:
 10
