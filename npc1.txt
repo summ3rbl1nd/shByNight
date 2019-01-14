@@ -43,32 +43,32 @@ bone shadows
 SKILLS:
 PHYSICAL-- 4
 athletics       2 yoga
-brawl           1
+brawl           2
 drive           1 ebikes
 firearms
 larceny
 stealth         
 survival
-weaponry        1
+weaponry
 
-MENTAL-- 11
+MENTAL-- 7
 academics       2 western philosophy
 computer
 crafts	  	    
-investigation   2
+investigation
 medicine        2 yoga therapy
 occult          3
-politics        2
+politics
 science
 
-SOCIAL-- 7
+SOCIAL-- 11
 animal ken
-empathy         1
-expression      1
+empathy         2
+expression      2
 intimidation
 persuasion      2
-socialize       1
-streetwise      1
+socialize       2
+streetwise      2
 subterfuge      1
 
 BLOOD: monster
@@ -103,7 +103,7 @@ ESSENCE:
 7
 
 RENOWN:
-glory--       1
+glory--         1
 wisdom--        1
 purity--        1
 
